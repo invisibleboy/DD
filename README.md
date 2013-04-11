@@ -1,7 +1,7 @@
 ##DD
 ===========
 
-"This tiny extension replace :ی with :D in all inputs.
+"This tiny extension replaces :ی with :D in all inputs.
 
 
 
